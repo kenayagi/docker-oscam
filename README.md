@@ -1,0 +1,2 @@
+# docker-oscam
+OSCam dockerized
