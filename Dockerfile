@@ -1,7 +1,7 @@
 FROM debian:jessie
 
 # Set desired version
-ENV OSCAMVERSION=11325
+ENV OSCAMVERSION=11384
 
 # Prepare directories
 RUN mkdir /config
